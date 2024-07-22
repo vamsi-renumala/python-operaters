@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 one
 two
+=======
+one 
+two
+three
+four
+five
+>>>>>>> feature
