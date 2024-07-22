@@ -8,3 +8,6 @@ three
 four
 five
 >>>>>>> feature
+
+tagged file
+
